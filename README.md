@@ -26,7 +26,7 @@ I believe good analysis is not about complex models — it’s about clarity, lo
 
 **Languages**
 - Python  
-- Java  
+- SQL  
 
 **Data Tools & Libraries**
 - Pandas  
